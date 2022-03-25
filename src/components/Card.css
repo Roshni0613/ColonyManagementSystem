@@ -1,0 +1,40 @@
+.bodyys{
+    background-color: rgb(238, 239, 241);
+    
+}
+
+
+
+.container{
+margin-top: 25px;
+}
+
+.card1{
+    border-radius: 1rem;
+    transition: transform 450ms;
+}
+.card-img-top{
+    border-radius: 1rem;
+}
+
+.card1:hover{
+    transform: scale(1.08);
+}
+
+.card2{
+    border-radius: 1rem;
+    transition: transform 450ms;
+}
+
+.card2:hover{
+    transform: scale(1.08);
+}
+
+.card3{
+    border-radius: 1rem;
+    transition: transform 450ms;
+}
+
+.card3:hover{
+    transform: scale(1.08);
+}
